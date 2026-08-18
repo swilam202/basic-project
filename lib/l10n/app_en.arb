@@ -1,0 +1,7 @@
+{
+    "@@locale": "en",
+    
+    "hi": "Hi",
+    "internetConnectionLost": "Internet connection lost",
+    "backOnline": "Back online"
+}
